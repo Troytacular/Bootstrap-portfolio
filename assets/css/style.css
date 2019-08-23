@@ -1,0 +1,42 @@
+#contact-form ul {
+    margin-bottom: 20px;
+    margin-right: 100px;
+  }
+  
+  #contact-form li {
+    margin-bottom: 10px;
+    margin-right: 100px;
+  }
+  
+  label,
+  input[type=text],
+  input[type=email],
+  textarea {
+    display: block;
+    width: 100%;
+    margin-right: 0px;
+  }
+  
+  input[type=text],
+  input[type=email],
+  textarea {
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    border: 1px solid #020202;
+  }
+  
+  textarea {
+    height: 200px;
+  }
+  
+  input[type=submit] {
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #ffffff;
+    cursor: pointer;
+    background: #023d22;
+    border: 0 none;
+    
+  }
+  

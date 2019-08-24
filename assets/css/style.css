@@ -39,6 +39,37 @@
     border: 0 none;
     
   }
+
   #hotdog {
       margin-top: 10px;
+  }
+
+  #pizza {
+      text-align: center;
+  }
+
+  #carrot {
+      text-align: center;
+      margin-right: 300px;
+      margin-left: 300px;
+      color: #023d22;
+      margin-top: 10px;
+  }
+  
+  #lighter {
+      margin-right: 300px;
+      margin-left: 300px;
+  }
+
+  #broccoli {
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+
+  img {
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-top: 20px;
+    width: 510px;
+
   }

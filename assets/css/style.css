@@ -1,6 +1,7 @@
 #contact-form ul {
     margin-bottom: 20px;
     
+    
   }
   
   #contact-form li {
@@ -42,6 +43,13 @@
 
   #hotdog {
       margin-top: 10px;
+      margin-right: 300px;
+      margin-left: 300px;
+      text-align: center;
+      color: #023d22;
+
+
+
   }
 
   #pizza {
@@ -71,5 +79,27 @@
     margin-left: 300px;
     margin-top: 20px;
     width: 510px;
+    margin-bottom: 20px;
+}
 
-  }
+#spoon {
+    height: 500px;
+    width: 100px;
+    border: 1px solid black;
+    float: middle;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#fork {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#plate {
+    margin-right: 300px;
+    margin-left: 275px;
+}
+    
